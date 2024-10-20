@@ -1,0 +1,6 @@
+id=ggeoxzramoptimizationv1
+name=Zram Optimization v1
+version=1
+versionCode=1
+author=ggeo15
+description=aims to improve the compression and decompression of zram and thus improving performance
